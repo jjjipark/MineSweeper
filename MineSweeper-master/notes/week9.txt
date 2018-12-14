@@ -1,0 +1,14 @@
+To dos:
+	- fix command line formatting according to difficulty level
+	- Comment code (leaderboard)
+	- Merge levels, leaderboard, windows
+	- Fix bomb # display
+	- Make makefile
+
+Completed:
+	- leaderboard logic
+	- levels logic
+	- minimum viable product GUI game. 
+
+
+

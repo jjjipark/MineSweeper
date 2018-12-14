@@ -1,0 +1,18 @@
+To dos:
+
+- exit bug when you lose
+- change initialization to set # of bombs depending on difficulty level
+- timer (GUI)
+- Merge GUIs and logic
+- Presentation
+- Smiley with sun glasses and kissy face when you click
+- Make cell reveal upon release of click
+- Leaderboard
+	- top ten for each level (need user to give name)
+	- single top score for each level (no names)
+	- write time and level out to leaderboard textfile
+
+Completed:
+- Minimum viable product logic for Minesweeper completed
+- Made GUI menu
+- Made GUI board

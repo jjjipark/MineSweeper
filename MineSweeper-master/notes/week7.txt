@@ -1,0 +1,5 @@
+This week we researched GUI frameworks, and decided to work with SFML after determining that its capabilities were sufficient for our purposes. We worked with this framework and were able to implement a basic grid with classic minesweeper squares. Next week we will be focusing on detecting events, and establishing communication between our grid and the user's mouse. 
+
+Additionally, we worked on the logical implementation of our command line minesweeper game. A cell class was developed, as well as a class to run the actual game, which prompts the user for input, and prints each step of the game. This will be fully functional after a bit of debugging. We also intend to implement some sort of logic that will prevent a user's first move from landing on a bomb. 
+
+Next week we aim to have the majority of the GUI class built. At this point we will be able to work on integrating the GUI with our command line implementation of minesweeper.

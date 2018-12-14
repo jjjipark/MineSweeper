@@ -1,0 +1,14 @@
+Beginner:
+SuperFastDude 1
+Peter 2
+Daniel 3
+Jacob 4
+Jonah 7
+Jonah 10
+Demo2 19
+Demo 19
+Intermediate: 
+Daniel 5
+Jacob 6
+Expert: 
+ 

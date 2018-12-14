@@ -1,0 +1,5 @@
+This week we scheduled a regular meeting time for each week so that we can discuss progress and deligate tasks. 
+
+For this week we will begin investigating 2D frameworks for creating the gui and starting to implement the game class.
+
+The game class will be similar to the game class we are currently writing for assignment 5 where the board will be stored in a 2D array. The elements of the array will most likely be a cell class where the cell can be either empty or bomb and have three possible conditions: covered, open or flagged. Each cell will have methods to change its condition and look at its adjacent cells to know how many bombs it is touching.

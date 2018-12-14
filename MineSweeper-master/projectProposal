@@ -1,0 +1,24 @@
+Title: Minesweeper
+
+** Project repository: 330-Project
+
+** Team members: Jieun Park, Laura Queen, Jonah Rose, Pallavi Webb
+
+** Description (1-3 paragraphs):
+
+Our project will use C and/or C++ to implement a GUI or a text-based (ASCII) Minesweeper game. Minesweeper is played on a 2D grid of cells that contains mines in ‘random’ locations. The object of Minesweeper is to locate all the mines without uncovering any of them. The player uncovers a cell by clicking on it. If the cell contains a mine, then the game ends. Otherwise, the number of adjacent cells which contain mines is displayed on the clicked cell. If there are no mines in the adjacent cells, all cells with no adjacent mines becomes black. Our game will display the playing field, react to the players decisions, time the game and display a smiley face when the player wins (possibly with sunglasses).  We will have two major phases. The first is implementing the game logic using C++ classes and the second is implementing the graphical user interface. 
+
+** Implementation approach:
+
+We plan to use C and C++ for the majority of the project, but may branch out into other languages depending on our needs (such as for constructing our graphical user interface). At this point, it is also unlikely that we will need to use any third-party software. Our implementation will include a Minefield class which has cell class objects. Each object (cell) must keep track of the number of mines around it (in adjacent cells). When a cell is clicked by the player, these numbers will be revealed to the player, informing their next move. As a team we will be meeting and communicating regularly each week. We will also be making decisions as a group unless one of us decides to take a leadership position. The following is a tentative schedule:
+
+Week 6: Determine rules to be followed by our implementation, and start thinking about logical solutions. Decide how the work will be divided up, and other logistical details. 
+Week 7: Try to have the majority of the C++ classes complete.
+Week 8: Finish coding and start debugging process.
+Week 9: Begin work on graphical interface.
+Week 10: Finish graphical interface, and work on any outstanding issues.
+
+** Risk management plan (max 1 paragraph):
+
+
+	If time management becomes an issue, or we find ourselves encountering any other unforeseen issues, we will disregard the GUI aspect, and focus on creating a fully functioning command line implementation. 

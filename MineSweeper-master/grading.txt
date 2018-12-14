@@ -1,0 +1,92 @@
+Summary:
+  + Strengths: 
+	good team effort
+	good overall design and implementation
+	both command line and GUI versions
+	all goals accomplished!
+  - Weaknesses: 
+	For grading, it really helps to know who you are (always set your name for git, Jonah hadn't set his); having multiple names is easy to avoid, too, but not a big problem
+
+
+Statistical information for the repository 'Minesweeper' was gathered on
+2018/03/18.
+The following historical commit information, by author, was found:
+
+Author                     Commits    Insertions      Deletions    % of changes
+Rose                             8           827            115           14.64
+Jun3p                           20          1518           2953           69.47
+Laura Queen                     11           292            189            7.47
+Pallavi                          5           462             48            7.92
+Pallavi Webb                     1             6             26            0.50
+
+Below are the number of rows from each author that have survived and are still
+intact in the current revision:
+
+Author                     Rows      Stability          Age       % in comments
+Rose                        639           77.3          1.3               23.00
+Jun3p                       896           59.0          0.7               36.50
+Laura Queen                 305          104.5          1.4                6.56
+Pallavi Webb                336         5600.0          1.2               14.88
+
+The following history timeline has been gathered from the repository:
+
+Author                  2018W08    2018W09    2018W10    2018W11 
+Rose	              +++++++++             -++++++++          . 
+Jun3p                         +  -++++++++      +++++   -------+ 
+Laura Queen                         --++++          .          . 
+Pallavi                                +++       ++++            
+Pallavi Webb                                                   . 
+Modified Rows:              314        948       1409       3765 
+
+The following files have an elevated cyclomatic complexity (in order of severity):
+cmdMineSweeper/MsGame.cpp (262 in cyclomatic complexity)
+
+The following responsibilities, by author, were found in the current revision of
+the repository (comments are excluded from the line count, if possible):
+
+Rose is mostly responsible for:
+   327 cmdMineSweeper/MsGame.cpp
+    47 cmdMineSweeper/run-MsGame.cpp
+    42 cmdMineSweeper/MsCell.cpp
+    20 cmdMineSweeper/MsGame.hpp
+    15 cmdMineSweeper/MsCell.hpp
+    12 GuiMineSweeper/MsGame.cpp
+    12 GuiMineSweeper/MsCell.cpp
+     9 GuiMineSweeper/MsCell.hpp
+     8 GuiMineSweeper/MsGame.hpp
+
+Jun3p is mostly responsible for:
+   151 GuiMineSweeper/level.cpp
+   120 GuiMineSweeper/GuiGrid.cpp
+    83 GuiMineSweeper/menu.cpp
+    82 GuiMineSweeper/main.cpp
+    46 GuiMineSweeper/MsGame.cpp
+    39 GuiMineSweeper/menu.hpp
+    33 GuiMineSweeper/level.hpp
+    10 GuiMineSweeper/GuiGrid.hpp
+     5 GuiMineSweeper/MsGame.hpp
+
+Laura Queen is mostly responsible for:
+   145 cmdMineSweeper/MsGame.cpp
+    41 cmdMineSweeper/MsCell.cpp
+    35 cmdMineSweeper/run-MsGame.cpp
+    23 GuiMineSweeper/MsGame.cpp
+    15 cmdMineSweeper/MsCell.hpp
+    11 GuiMineSweeper/MsCell.cpp
+     8 cmdMineSweeper/MsGame.hpp
+     4 GuiMineSweeper/MsCell.hpp
+     3 GuiMineSweeper/MsGame.hpp
+
+Pallavi Webb is mostly responsible for:
+   203 GuiMineSweeper/GuiGrid.cpp
+    44 GuiMineSweeper/GuiGrid.hpp
+    14 GuiMineSweeper/MsGame.cpp
+     9 GuiMineSweeper/MsCell.hpp
+     7 GuiMineSweeper/MsGame.hpp
+     7 GuiMineSweeper/MsCell.cpp
+     1 GuiMineSweeper/menu.cpp
+     1 GuiMineSweeper/main.cpp
+
+The extensions below were found in the repository history (extensions used
+during statistical analysis are marked):
+* [cpp] [hpp] md md => README txt 
